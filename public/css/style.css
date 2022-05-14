@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.logo {
+  width: 164px;
+}
+body {
+  background-color: #ccc;
+  text-align: center;
+}
