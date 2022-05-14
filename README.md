@@ -4,7 +4,7 @@ Projeto final desenvolvido no curso de Desenvolvimento Back End, utilizando Node
 
 ## Layout da aplicação
 
-![Mockups](https://github.com/VanessaVargas/hackathon-backend-cellep/blob/master/App/public/img/layout.png)
+![Mockups](https://github.com/VanessaVargas/hackathon-biscoito-da-sorte/blob/master/public/img/layout.png)
 
 # Tecnologias utilizadas
 
