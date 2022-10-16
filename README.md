@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Projeto final desenvolvido no curso de Desenvolvimento Back End, utilizando NodeJS e ExpressJS.
+Projeto final desenvolvido no curso de Desenvolvimento Back End da CelLep em parceria com a Estação Hack, utilizando NodeJS e ExpressJS.
 
 ## Layout da aplicação
 
