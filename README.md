@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Projeto final desenvolvido no curso de Desenvolvimento Back End, utilizando NodeJS e ExpressJS. Para o desenvolvimento foi utilizado uma estrutura básica fornecida.
+Projeto final desenvolvido no curso de Desenvolvimento Back End, utilizando NodeJS e ExpressJS.
 
 ## Layout da aplicação
 
