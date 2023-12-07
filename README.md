@@ -1,14 +1,25 @@
-# Sobre o projeto
+# Random Phrases Generator - Node.js and Express
 
-Projeto final desenvolvido no curso de Desenvolvimento Back End da CelLep em parceria com a Estação Hack, utilizando NodeJS e ExpressJS.
+A simple web application developed in Node.js and Express in 2022, simulating a fortune cookie. In this project, users can generate random phrases with just one click. It offers a fun and creative programming experience.
 
-## Layout da aplicação
+## Preview
 
 ![Mockups](https://github.com/VanessaVargas/hackathon-biscoito-da-sorte/blob/master/public/img/layout.png)
 
-# Tecnologias utilizadas
+# Technologies Used
 
 - NodeJS
 - ExpressJs
 
-#### ✨ Desenvolvido por Vanessa Vargas ✨
+## Features
+- Generates random phrases with each click
+- Built using the Node.js runtime and the Express framework
+
+## How to Run
+- Clone the repository to your local machine.
+- Navigate to the project directory in the terminal.
+- Run npm install to install the necessary dependencies.
+- Run npm start to start the Express server.
+- Visit http://localhost:3000 in your web browser to use the random phrases generator.
+
+Developed with ❤️ by VanessaVargas
